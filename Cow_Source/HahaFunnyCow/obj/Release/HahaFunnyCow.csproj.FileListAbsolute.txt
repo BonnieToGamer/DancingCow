@@ -2,7 +2,6 @@ D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\HahaFunnyCow.ex
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\HahaFunnyCow.exe
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\HahaFunnyCow.pdb
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\Interop.WMPLib.dll
-D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\AxInterop.WMPLib.dll
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Release\HahaFunnyCow.csprojAssemblyReference.cache
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Release\Interop.WMPLib.dll
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Release\AxInterop.WMPLib.dll
@@ -17,22 +16,4 @@ D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\HahaFunnyCow.ex
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\HahaFunnyCow.application
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Release\HahaFunnyCow.exe.manifest
 D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Release\HahaFunnyCow.application
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.csprojAssemblyReference.cache
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\Interop.WMPLib.dll
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\AxInterop.WMPLib.dll
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.csproj.ResolveComReference.cache
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.Form1.resources
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.csproj.GenerateResource.cache
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.exe
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.pdb
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\bin\Release\HahaFunnyCow.exe.config
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\bin\Release\HahaFunnyCow.exe.manifest
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\bin\Release\HahaFunnyCow.application
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\bin\Release\HahaFunnyCow.exe
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\bin\Release\HahaFunnyCow.pdb
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\bin\Release\Interop.WMPLib.dll
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\bin\Release\AxInterop.WMPLib.dll
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.Properties.Resources.resources
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.csproj.CoreCompileInputs.cache
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.exe.manifest
-D:\Programmering\C#Project\HahaFunnyCow - Copy (3)\HahaFunnyCow\obj\Release\HahaFunnyCow.application
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Release\AxInterop.WMPLib.dll
