@@ -1,0 +1,15 @@
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Debug\HahaFunnyCow.exe.config
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Debug\HahaFunnyCow.exe
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Debug\HahaFunnyCow.pdb
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.csprojAssemblyReference.cache
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.Form1.resources
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.Properties.Resources.resources
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.csproj.GenerateResource.cache
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.csproj.CoreCompileInputs.cache
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.exe
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.pdb
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Debug\Interop.WMPLib.dll
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\bin\Debug\AxInterop.WMPLib.dll
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\Interop.WMPLib.dll
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\AxInterop.WMPLib.dll
+D:\Programmering\C#Project\HahaFunnyCow\HahaFunnyCow\obj\Debug\HahaFunnyCow.csproj.ResolveComReference.cache
